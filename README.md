@@ -1,2 +1,2 @@
 # tut-hello
-learning 
+i am wasi  
